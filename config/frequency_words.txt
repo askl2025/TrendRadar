@@ -1,11 +1,20 @@
 AI
 OpenAI
+chatgpt
+sora
+
 Gemini
 Google
 谷歌
+deepmind
+
+
+Nature
+Science
+
+
 
 DeepSeek
-
 Kimi
 
 华为
@@ -26,16 +35,15 @@ bytedance
 
 微软
 Microsoft
+Copilot
+
+
 
 英伟达
 NVIDIA
+黄仁勋
 
-
-deepmind
-
-chatgpt
-
-sora
+cursor
 
 claude
 Anthropic
@@ -43,13 +51,14 @@ Anthropic
 iphone
 mac
 ios
+Linux
 
 vscode
 
 vibe coding
 
-ai
 
+LLM
 人工智能
 
 具身智能
@@ -59,8 +68,6 @@ ai
 中国
 
 美国
-日本
-
 
 科技
 
@@ -70,4 +77,3 @@ NBA
 
 羽毛球
 
-Copilot
